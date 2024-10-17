@@ -9,6 +9,10 @@ This is a Flutter-based mobile application featuring a Tic-Tac-Toe game with dif
 - **Trophy System**: Earn trophies when you win against the bot, with your progress saved using `SharedPreferences`.
 - **Challenges**: Participate in special challenges to test your skills.
 - **Marketplace**: Purchase in-game items and upgrades from the marketplace 
+## Video Demonstration
+
+[![Watch the video](https://img.youtube.com/vi/abcd1234/0.jpg)](https://youtu.be/EU65KJQefxw)
+
 
 ## Tech Stack
 
